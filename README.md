@@ -1,4 +1,9 @@
-# MLOps-FastAPI-Practice
+# ➡⬅ MLOps-FastAPI-Practice
+
+<p align="center">
+  <img src="https://github.com/Kratugautam99/MLOps-FastAPI-Practice/blob/main/Demo%20Images/DVC.png" alt="DVC Diagram" width="600"/>
+</p>
+
 
 A streamlined MLOps pipeline integrating version control, model tracking, and reproducibility using **DagsHub/MLFlow**. Ideal for collaborative machine learning workflows and efficient experiment tracking. Along with Backend API Developments with **FastAPI [Deployed Insurance API in DockerHub]**.
 
@@ -9,7 +14,7 @@ A streamlined MLOps pipeline integrating version control, model tracking, and re
 - [🚀 Features](#-features)
 - [🔧 Tech Stack](#-tech-stack)
 - [🏃 Getting Started](#-getting-started)
-- [🔗 Quick Access to Dagshub Account](#-quick-access-to-dagshub-account)
+- [🔗 Dagshub Account Access](#-dagshub-account-access)
 - [⚓ Custom API Developments](#-custom-api-developments)
 - [🧩 Final Thoughts](#-final-thoughts)
 
@@ -58,18 +63,23 @@ cd MLOps-FastAPI-Practice
 
 ---
 
-## 🔗 Quick Access to Dagshub Account
+## 🔗 Dagshub Account Access
+
 
 - 🔍 [View Files](https://dagshub.com/kratugautam99/MLOps-FastAPI-Practice)  
 - 📂 [Explore Datasets](https://dagshub.com/kratugautam99/MLOps-FastAPI-Practice/datasets)  
 - 🧪 [Experiment Runs](https://dagshub.com/kratugautam99/MLOps-FastAPI-Practice/experiments)  
 - 📦 [Registered Models](https://dagshub.com/kratugautam99/MLOps-FastAPI-Practice/models)  
 
+![DagshubAcc](https://github.com/Kratugautam99/MLOps-FastAPI-Practice/blob/main/Demo%20Images/DagshubAcc.png)
+
 ---
 
 ## ⚓ Custom API Developments
 
 A suite of modular FastAPI services designed for real-world deployment, agentic orchestration, and seamless integration.
+
+![FastAPI](https://github.com/Kratugautam99/MLOps-FastAPI-Practice/blob/main/Demo%20Images/FastAPIDocs.png)
 
 ---
 
@@ -117,9 +127,12 @@ A suite of modular FastAPI services designed for real-world deployment, agentic 
 - Risk segmentation dashboards  
 - Agentic decision support systems
 
-#### 🔗 Access Links
+#### 🔗 Docker Account Access
 - ⚓ [Docker Repository for Initialization](https://hub.docker.com/r/kratuzen/insurance-prediction-api)
-- Run Docker Commands first then click below
+
+![DockerAcc](https://github.com/Kratugautam99/MLOps-FastAPI-Practice/blob/main/Demo%20Images/DockerAcc.png)
+
+Run Docker Commands first then click below
 - ⭕ [API Dashboard](http://localhost:8000/docs)  
 - ✔️ [Streamlit GUI](http://localhost:8501/)
 
