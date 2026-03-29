@@ -12,6 +12,7 @@ A streamlined MLOps pipeline integrating version control, model tracking, and re
 ## 📚 Table of Contents
 
 - [🚀 Features](#-features)
+- [📁 Repository Structure](#-repository-structure)
 - [🔧 Tech Stack](#-tech-stack)
 - [🏃 Getting Started](#-getting-started)
 - [🔗 Dagshub Account Access](#-dagshub-account-access)
@@ -27,6 +28,19 @@ A streamlined MLOps pipeline integrating version control, model tracking, and re
 - 📊 Visual insights into model performance  
 - 🤝 Seamless collaboration via DagsHub’s web UI  
 - 🛠️ CI/CD integration for model deployment (optional extension)  
+
+---
+
+## 📂 Repository Structure
+
+```bash
+MLOps-FastAPI-Practice/
+├── Algorithm Files/        # ML algorithms and scripts
+├── Custom Made FastAPIs/   # FastAPI services (HelloAPI, DoctorAPI, InsuranceAPI)
+├── Demo Images/            # Screenshots and diagrams (e.g., DVC.png)
+├── Docker Operations/      # Docker setup and deployment files
+└── README.md               # Project documentation
+```
 
 ---
 
