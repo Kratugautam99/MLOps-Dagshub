@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/Kratugautam99/MLOps-FastAPI-Practice/blob/main/Demo%20Images/DVC.png" alt="DVC Diagram" width="600"/>
-  <img src="https://github.com/Kratugautam99/MLOps-FastAPI-Practice/blob/main/Demo%20Images/FastAPI.png" alt="DVC Diagram" width="600"/>
+  <img src="https://github.com/Kratugautam99/MLOps-FastAPI-Practice/blob/main/Demo%20Images/FastAPI.png" alt="FastAPI Logo" width="600"/>
 </p>
 
 
